@@ -3,7 +3,7 @@
 ## About Me
 I am a dedicated and detail-oriented professional with over 14 years of experience in Excel and Tally ERP. My expertise spans data analysis, financial management, and process optimization. I am passionate about continuous learning and applying my skills across diverse domains to drive efficiency and innovation.
 
-- 🔭 I’m currently enhancing my skills in Python for data analysis and automation.
+- 🔭 I’m currently enhancing my skills in Excel for data analysis and automation.
 - 🌱 I’m interested in exploring new technologies and tools to improve business operations.
 - 💬 Ask me about Excel formulas, Tally ERP customization, and data visualization techniques.
 - 📝 I regularly share my insights and learnings on [Medium](https://medium.com/@kondajyothi07).
@@ -11,7 +11,6 @@ I am a dedicated and detail-oriented professional with over 14 years of experien
 ## Technical Skills
 - **Microsoft Excel**: Advanced functions (VLOOKUP, PivotTables, Macros), data visualization, financial reporting.
 - **Tally ERP**: Customization, invoice generation, inventory management.
-- **Python**: Basic data analysis and automation.
 - **SQL**: Basic queries for data extraction and management.
 - **Adobe Photoshop**: Image editing and graphic design.
 - **Page Maker**: Desktop publishing for creating professional documents.
